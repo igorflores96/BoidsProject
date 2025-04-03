@@ -27,9 +27,9 @@ Este projeto foi desenvolvido na Unity utilizando C# e implementa Steering Behav
 
 ---
 
-Clone este repositório e experimente os Steering Behaviors na prática:
+Clone este repositório para testar:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/igorflores96/BoidsProject.git
 
 
